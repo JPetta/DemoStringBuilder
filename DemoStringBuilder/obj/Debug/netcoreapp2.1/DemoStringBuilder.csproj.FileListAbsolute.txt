@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\bin\Debug\netcoreapp2.1\DemoStringBuilder.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\bin\Debug\netcoreapp2.1\DemoStringBuilder.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\bin\Debug\netcoreapp2.1\DemoStringBuilder.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\bin\Debug\netcoreapp2.1\DemoStringBuilder.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\bin\Debug\netcoreapp2.1\DemoStringBuilder.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_StringBuilder\DemoStringBuilder\obj\Debug\netcoreapp2.1\DemoStringBuilder.pdb
